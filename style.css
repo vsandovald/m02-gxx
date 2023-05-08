@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2? family= Bebas+Neue & family= Montserrat:ital,wght@0,300;1,300 & display=swap');
 
 
-body {background-color: #C2E18E;
+body {background-color: whitesmoke;
 	margin-left: 100px;
 	margin-right: 100px;
 	margin-top: 60px;
 	font-family:  'Montserrat', sans-serif;}
 	
 
-.sobremi h1{color: darkgreen;
-background-color: whitesmoke;
+.sobremi h1{color: purple;
+background-color: lightblue;
 font-family: 'Bebas Neue', cursiva;}
 
 
